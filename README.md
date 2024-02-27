@@ -1,6 +1,6 @@
 # Quiz 6
 
-[![](https://scotch-res.cloudinary.com/video/upload/vs_50,dl_200,e_loop/v1592352066/13-memory-matching_cvgqvl.gif)](https://learn.chrisoncode.io/courses/10-react-apps-series-b/365603-3-memory-matching-game/1041042-00-memory-matching-preview)
+![CleanShot2024-02-26at16 48 48-ezgif com-optimize (1)](https://github.com/NEU-CS5610-2024-ONL-spring/quiz-06-template/assets/1692542/d328b587-1ec6-4e06-81a5-e5b831894be1)
 
 Build a memory game with the following functionality
 
